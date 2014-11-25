@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicio", "Servicio\Servicio.csproj", "{014FB34D-2009-4A1B-87A1-C5209749271B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{599CE877-A180-46CE-A803-A72F36386363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{A04E64B2-405F-4625-A220-8D56ACE8E29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014FB34D-2009-4A1B-87A1-C5209749271B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014FB34D-2009-4A1B-87A1-C5209749271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014FB34D-2009-4A1B-87A1-C5209749271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014FB34D-2009-4A1B-87A1-C5209749271B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599CE877-A180-46CE-A803-A72F36386363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599CE877-A180-46CE-A803-A72F36386363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599CE877-A180-46CE-A803-A72F36386363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599CE877-A180-46CE-A803-A72F36386363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04E64B2-405F-4625-A220-8D56ACE8E29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04E64B2-405F-4625-A220-8D56ACE8E29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04E64B2-405F-4625-A220-8D56ACE8E29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04E64B2-405F-4625-A220-8D56ACE8E29E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

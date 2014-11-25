@@ -1,0 +1,9 @@
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\bin\Servicio.dll
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\bin\Servicio.pdb
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\obj\Debug\Servicio.dll
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\obj\Debug\Servicio.pdb
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\bin\Logica.dll
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\bin\Datos.dll
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\bin\Logica.pdb
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\bin\Datos.pdb
+c:\users\esneyder\documents\visual studio 2010\Projects\Servicio\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
